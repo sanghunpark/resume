@@ -1,18 +1,22 @@
 # Jobs
-# VP of Global Communications
-- company: Camera-based calibration for multi-projector displays
-  # position: VP of Global Communications
+
+- company: Camera-based Calibration for Multi-Projector Displays
+  # position: Buiding Multi-Projector Displays System
   duration: Mar, 2013 &mdash; May, 2017
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: I have worked on creating a logically large screen using multiple projectors. Starting from implementing the existing research, I conducted a study to calibrate the multi-projector with a handheld camera such as a smartphone, which is my master's thesis topic.
+# <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Calibration of Multiple Kinect Sensors
+  # position: Director of Digital Strategy
+  duration:  Jun, 2016 &mdash; Dec, 2017
+  summary: I have involved in a study that calibrates multiple Kinects to cover a wide range and track many people.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
+- company: virtual Reality Application for Theatres
   position: Communications Coordinator
   duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: I have developed an application that gives people the illusion of watching a movie in the theatre.
+
+- company: Deep Learning-based Image Synthesis
+  position: Communications Coordinator
+  duration:   Jun, 2008  &mdash; May, 2010
+  summary: Recently, I am working on a deep learning-based image translation model and aim to submit papers for conferences.
