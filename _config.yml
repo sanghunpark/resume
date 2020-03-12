@@ -23,12 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: 
-"<p>I am currently a Ph.D. student in
-the Graduate School of Culture Technology at
-KAIST. My research interests include projector-camera
-system, image/video processing, and
-deep learing.</p>"
+resume_header_intro: "<p>I am currently a Ph.D. student in the Graduate School of Culture Technology at KAIST. My research interests include projector-camera system, image/video processing, and deep learing.</p>"
 
 #<ul class="resume-item-list"><li>Projector-Camera System</li><li>Image/video Processing</li><li>Deep Learning</li></ul>
 
