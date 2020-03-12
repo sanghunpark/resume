@@ -96,6 +96,24 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_academic %}
+      <!-- begin Academic -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Academic Activities</h2>
+        </header>
+        {% for academic in site.data.academic %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ academic.skill }}</h4>
+          <p class="resume-item-copy">{{ academic.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Academic -->
+      {% endif %}
+
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
