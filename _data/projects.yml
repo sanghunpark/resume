@@ -3,6 +3,7 @@
 
 # Camera Work Project
 - project: Development of Camera Work Tracking Technology for Animation Production using Artificial Intelligence
+  funding: KOCCA
   role: Projector Manager & Developer
   duration: May, 2018 &mdash; Dec, 2019
   # url: "https://vml.kaist.ac.kr/main/projects/individual/38"
@@ -10,6 +11,7 @@
 
 # Telepresence
 - project: Development of hyper realistic tele-immersion system using scene reconstruction and deformation from panoramic video
+  funding: IITP
   role: Developer
   duration: Jun, 2017 &mdash; Dec, 2017
   # url: "https://vml.kaist.ac.kr/main/projects/individual/35"
@@ -17,6 +19,7 @@
 
 # Multi-Projection Project
 - project: Development of a Multi-screen Movie Theatre System and Immersive Content
+  funding: IITP
   role: Developer
   duration: Jun, 2016 &mdash; Dec, 2017
   # url: "https://vml.kaist.ac.kr/main/projects/individual/32"
@@ -24,6 +27,7 @@
 
 # Curved Projection Project
 - project: Real-time Revision &Interaction Technology Development for Curved Screen Contents
+  funding: IITP
   role: Developer
   duration: Jun, 2016 &mdash; Dec, 2017
   # url: "https://vml.kaist.ac.kr/main/projects/individual/27"
@@ -31,6 +35,7 @@
 
 # KOLON IIS
 - project: The development of ‘Immersive & Interactive Space' platform
+  funding: KOLON
   role: Developer
   duration: May, 2014 &mdash; Sep, 2016
   # url: "https://vml.kaist.ac.kr/main/projects/individual/23"
