@@ -49,9 +49,15 @@
 }
 
 // type utilities
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Noto+Serif+KR:wght@200&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Noto+Serif+KR&display=swap');
+// @import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css);
+// @import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+// @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
 
 @mixin sans {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans KR", 'KoPub Batang', "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 @mixin sans_light {
@@ -75,7 +81,7 @@
 }
 
 @mixin serif {
-  font-family: "Lora", "Minion Pro", Palatino, Georgia, serif;
+  font-family: "Noto Serif KR", 'KoPub Batang', "Lora", "Minion Pro", Palatino, Georgia, serif;
 }
 
 @mixin serif_regular {

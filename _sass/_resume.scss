@@ -145,6 +145,14 @@
     line-height: 1;
   }
 
+  .resume-item-duration {
+    @include sans_regular;
+    font-size: 1.0rem;
+    margin: 0 0 .75rem;
+    line-height: 1;
+    color: #999
+  }
+
   .resume-item-details {
     font-size: 1.125rem;
     margin: 0 0 .75rem;
@@ -224,7 +232,7 @@
       font-size: 12px;
       margin: 0 0 .75rem;
       line-height: .7em;
-      font-style:italic;
+      // font-style:italic;
 
       &.award-title {
         font-size: 11px;
