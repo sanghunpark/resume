@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Sanghun Park"
 resume_title:                   "Ph.D. Student, Visual Media Lab in KAIST"
 
@@ -20,7 +20,7 @@ resume_contact_email:           "reversi@kaist.ac.kr"
 resume_contact_telephone:       "555-7334"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "82+ 10 2736 3990 • reversi@kaist.ac.kr"
+resume_header_contact_info:     "reversi@kaist.ac.kr • 82+ 10 2736 3990"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p> I am currently a Ph.D. student in the Graduate School of Culture Technology at KAIST. My research interests include projector-camera system, image/video processing, and deep learning.</p>"
