@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "reversi@kaist.ac.kr • 82+ 10 2736 3990"
 display_header_contact_info:    "true"
 
-resume_header_intro: <p> I'm a Phd student in the Visual Media Lab at KAIST, advised by Prof. Junyong Noh. My research journey began with a camera-projector system. In recent years, my work focuses on solving computer vision and graphics problems with deep learning approachs.</p>
+resume_header_intro: <p> I'm a PhD student in the Visual Media Lab at KAIST, advised by Prof. Junyong Noh. My research journey began with a camera-projector system. In recent years, my work focuses on solving computer vision and graphics problems with deep learning approaches.</p>
 
 #<p> I am currently a Ph.D. student in the Graduate School of Culture Technology at KAIST. My research interests include projector-camera system, image/video processing, and deep learning.</p>"
 
