@@ -1,0 +1,22 @@
+# Jobs
+
+- company: Machine Learning and Deep Learning
+  # position: Communications Coordinator
+  duration:   May, 2018 &mdash; Present
+  summary: I am interested in solving existing image or video domain problems by applying modern machine learning or deep learning based methods. Recently, I am working on deep learning-based image translation model and aim to publish papers in academic conferences or journals.
+
+- company: Virtual Reality
+  # position: Communications Coordinator
+  duration:   Jun, 2016 &mdash; Dec, 2017
+  summary: I developed an VR application that utilizes a video game engine to give people the illusion of watching a movie in a theatre. It is used to simulate the visual experience of the audience in various cinema environments.
+
+- company: Calibration of Depth Camera Sensors
+  # position: Director of Digital Strategy
+  duration:  Jun, 2016 &mdash; Dec, 2017
+  summary: I involved in a study that calibrates multiple Kinect sensors to cover a wide range and track many people. It can be used for projector-based interactive games or art by tracking the movement of many people.
+
+- company: Camera-Projector System
+  # position: Buiding Multi-Projector Displays System
+  duration: Mar, 2013 &mdash; May, 2017
+  summary: I worked on creating a logically large screen using multiple projectors. Starting from implementing existing researches, I conducted a study to calibrate the multi-projector with a handheld camera such as a smartphone.
+# <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>

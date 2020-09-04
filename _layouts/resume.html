@@ -50,15 +50,15 @@
 
       </header>
 
-      {% if site.resume_section_experience %}
+      {% if site.resume_section_research %}
       <!-- begin Experience -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Research</h2>
         </header>
 
-        {% for job in site.data.experience %}
+        {% for job in site.data.research %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <p class="resume-item-duration" itemprop="description"> &bull; {{ job.duration }}  </p>
@@ -96,7 +96,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Education and Career</h2>
+          <h2>Education and Experience</h2>
         </header>
 
         {% for education in site.data.education %}

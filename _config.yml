@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sanghun Park"
-resume_title:                   "Ph.D. Student, Visual Media Lab in KAIST"
+resume_title:                   "Ph.D. Candidate, Self-Motivated Learner"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "reversi@kaist.ac.kr"
@@ -23,7 +23,9 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "reversi@kaist.ac.kr • 82+ 10 2736 3990"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p> I am currently a Ph.D. student in the Graduate School of Culture Technology at KAIST. My research interests include projector-camera system, image/video processing, and deep learning.</p>"
+resume_header_intro: <p> I'm a Phd student in the Visual Media Lab at KAIST, advised by Prof. Junyong Noh. My research journey began with a camera-projector system. In recent years, my work focuses on solving computer vision and graphics problems with deep learning approachs.</p>
+
+#<p> I am currently a Ph.D. student in the Graduate School of Culture Technology at KAIST. My research interests include projector-camera system, image/video processing, and deep learning.</p>"
 
 #<ul class="resume-item-list"><li>Projector-Camera System</li><li>Image/video Processing</li><li>Deep Learning</li></ul>
 
@@ -37,7 +39,7 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+resume_section_research:        true
 resume_section_education:       true
 resume_section_academic:        true
 resume_section_projects:        true

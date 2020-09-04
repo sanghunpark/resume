@@ -4,15 +4,15 @@
 # Camera Work Project
 - project: Development of Camera Work Tracking Technology for Animation Production using Artificial Intelligence
   funding: KOCCA
-  role: Projector Manager & Developer
+  role: Project Leader & Software Engineer
   duration: May, 2018 &mdash; Dec, 2019
   # url: "https://vml.kaist.ac.kr/main/projects/individual/38"
   # description: The goal of this project is to learn the cinematography of live-action movies using artificial inteligence techniques and recreate the camera work so that it can be used for animation production.
 
 # Telepresence
-- project: Development of hyper realistic tele-immersion system using scene reconstruction and deformation from panoramic video
+- project: Development of Hyper Realistic Tele-immersion System using Scene Reconstruction and Deformation from Panoramic Video
   funding: IITP
-  role: Developer
+  role: Software Engineer
   duration: Jun, 2017 &mdash; Dec, 2017
   # url: "https://vml.kaist.ac.kr/main/projects/individual/35"
   # description: Beyond telepresence for conferencing that provides video conferencing solutions between remote users, there is a growing interest and demand for tele-immersion system that economically and efficiently support super-realistic collaboration between remote users. Developed high-quality, ultra-realistic 3D telemigration technology based on 3D object information convergence and space unification in different remote spaces and secured original technology to leap to the world's best realistic tele-immersion system.
@@ -20,7 +20,7 @@
 # Multi-Projection Project
 - project: Development of a Multi-screen Movie Theatre System and Immersive Content
   funding: IITP
-  role: Developer
+  role: Software Engineer
   duration: Jun, 2016 &mdash; Dec, 2017
   # url: "https://vml.kaist.ac.kr/main/projects/individual/32"
   # description: '-'
@@ -28,7 +28,7 @@
 # Curved Projection Project
 - project: Real-time Revision &Interaction Technology Development for Curved Screen Contents
   funding: IITP
-  role: Developer
+  role: Software Engineer
   duration: Jun, 2016 &mdash; Dec, 2017
   # url: "https://vml.kaist.ac.kr/main/projects/individual/27"
   # description: 'This project aims for building interactive multi-projector environment on curve surface.'
@@ -36,7 +36,7 @@
 # KOLON IIS
 - project: The development of ‘Immersive & Interactive Space' platform
   funding: KOLON
-  role: Developer
+  role: Software Engineer
   duration: May, 2014 &mdash; Sep, 2016
   # url: "https://vml.kaist.ac.kr/main/projects/individual/23"
   # description: '-'
