@@ -28,6 +28,13 @@
         </div>
         {% endif %}
 
+        <!-- To display onlie resume-->
+        {% if site.display_header_online_resueme == 'true' %}
+        <div class="header-contact-info">
+          <p>Online Resume:  <a href={{ site.onlie_resume_url }} itemprop="url">{{ site.onlie_resume_url }}</a></p>
+        </div>
+        {% endif %}
+
         <div class="title-bar no-print">
 
           <!-- Your title is also defined in the _config.yml file -->
@@ -160,6 +167,42 @@
       </section>
       <!-- end Skills -->
       {% endif %}
+
+      {% if site.resume_section_patents %}
+      <!-- begin Patents -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Patents</h2>
+        </header>
+        {% for patent in site.data.patents %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ patent.patent }}</h4>
+          <p class="resume-item-copy">{{ patent.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Patents -->
+      {% endif %}
+
+      {% if site.resume_section_awards %}
+      <!-- begin Awards -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Awards</h2>
+        </header>
+        {% for award in site.data.awards %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ award.award }}</h4>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Awards -->
+      {% endif %}
+
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
