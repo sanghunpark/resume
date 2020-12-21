@@ -79,23 +79,23 @@
       {% endif %}
 
 
-      {% if site.resume_section_academic %}
-      <!-- begin Academic -->
+      {% if site.resume_section_publications %}
+      <!-- begin Publication -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Academic Activities</h2>
+          <h2>Publications</h2>
         </header>
-        {% for academic in site.data.academic %}
+        {% for publication in site.data.publications %}
         <div class="resume-item">
-          <h3 class="resume-item-title">{{ academic.title }}</h3>
-          <p class="resume-item-copy">{{ academic.authors }}</p>
-          <h5 class="resume-item-copy">{{ academic.journal }}</h5>
+          <h3 class="resume-item-title">{{ publication.title }}</h3>
+          <p class="resume-item-copy">{{ publication.authors }}</p>
+          <h5 class="resume-item-copy">{{ publication.journal }}</h5>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Academic -->
+      <!-- end Publication -->
       {% endif %}
 
 
@@ -103,7 +103,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Education and Experience</h2>
+          <h2>Education</h2>
         </header>
 
         {% for education in site.data.education %}
@@ -125,6 +125,34 @@
         {% endfor %}
       </section>
       <!-- end Education -->
+      {% endif %}
+
+      {% if site.resume_section_experiences %}
+      <!-- begin Experience -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Experience</h2>
+        </header>
+
+        {% for experience in site.data.experiences %}
+        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name">{{ experience.organization }}</h3>  
+          <p class="resume-item-duration" itemprop="description">&bull; {{ experience.year }}</p>       
+          <p class="resume-item-details" itemprop="description">{{ experience.role }}</p>
+          <h5 class="resume-item-details award-title" itemprop="description">{{ experience.award }}</h5>
+          <h5 class="resume-item-copy" itemprop="description">
+            <ul class="resume-item-list">
+              {% for award in experience.awards %}
+              <li>{{ award.award }}</li>
+              {% endfor %}
+            </ul></h5>
+
+
+          <p class="resume-item-copy">{{ experience.summary }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Experience -->
       {% endif %}
 
 
@@ -149,6 +177,25 @@
       </section>
       <!-- end Projects -->
       {% endif %}
+
+      
+      {% if site.resume_section_awards %}
+      <!-- begin Awards -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Awards</h2>
+        </header>
+        {% for award in site.data.awards %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ award.award }}</h4>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Awards -->
+      {% endif %}
+
 
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
@@ -184,23 +231,6 @@
 
       </section>
       <!-- end Patents -->
-      {% endif %}
-
-      {% if site.resume_section_awards %}
-      <!-- begin Awards -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Awards</h2>
-        </header>
-        {% for award in site.data.awards %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ award.award }}</h4>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Awards -->
       {% endif %}
 
 
