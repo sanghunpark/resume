@@ -1,6 +1,6 @@
 # Site settings
-title: "A Resume of Sanghun Park"
-description: "https://sanghunpark.github.io/resume/"
+title: "Sanghun Park — Resume"
+description: "Senior AI Research Engineer specializing in Generative AI and Computer Vision"
 
 # Build settings
 markdown: kramdown
@@ -11,68 +11,44 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sanghun Park"
-resume_title:                   "Ph.D. Candidate, Self-Motivated Learner"
+resume_title:                   "Senior AI Research Engineer"
 
-# used for the contact button in _layouts/resume.html
-resume_contact_email:           "reversi@kaist.ac.kr"
+resume_contact_email:           "reversi.disk@gmail.com"
 
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       ""
+resume_contact_address:         ""
 
-display_header_online_resueme:  "true"
-onlie_resume_url:               "https://sanghunpark.github.io/resume/"
+display_header_online_resueme:  "false"
+onlie_resume_url:               ""
 
-resume_header_contact_info:     "</p> reversi@kaist.ac.kr"
-display_header_contact_info:    "true"
+resume_header_contact_info:     "reversi.disk@gmail.com"
+display_header_contact_info:    "false"
 
-resume_header_intro: <p> I'm a PhD student in the Visual Media Lab at KAIST, advised by Prof. Junyong Noh. My research journey began with a camera-projector system. In recent years, my work has focused on solving computer vision and graphics problems with deep learning approaches. </p>
+resume_header_intro: "<p>Senior AI Research Engineer with 5+ years of industry research experience specializing in Generative AI and Diffusion Models. Led applied research on image/video synthesis — portrait editing, object removal, and face reenactment — for SNOW's global camera apps at SNOW Corp. (a subsidiary of NAVER). Expert in computer vision and deep learning frameworks.</p>"
 
-#<p> I am currently a Ph.D. student in the Graduate School of Culture Technology at KAIST. My research interests include projector-camera system, image/video processing, and deep learning.</p>"
-
-#<ul class="resume-item-list"><li>Projector-Camera System</li><li>Image/video Processing</li><li>Deep Learning</li></ul>
-
-
-
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
 resume_looking_for_work:        "yes"
 
 # Decide which sections to use
-# comment out to hide
 resume_section_research:        true
 resume_section_education:       true
 resume_section_experiences:     true
 resume_section_publications:    true
-resume_section_projects:        true
+resume_section_projects:        false
 resume_section_skills:          true
-resume_section_interests:       true
-resume_section_patents:         true
+resume_section_interests:       false
+resume_section_patents:         false
 resume_section_awards:          true
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
 
-
-
 # Resume social links
-# uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://sanghunpark.github.io/resume/"
   resume_linkedin_url:          "https://www.linkedin.com/in/sanghunpark/"
-  resume_instagram_url:         "https://www.instagram.com/reversi.disk/"
-  resume_facebook_url:          "https://www.facebook.com/reversi.disk"
-  # resume_twitter_url:           "http://twitter.com/jglovier"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_website_url:           "http://joelglovier.com"
-  # resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_github_url:          ""
+  # resume_instagram_url:       ""
+  # resume_facebook_url:        ""
 resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts

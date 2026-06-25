@@ -1,22 +1,21 @@
-# Jobs
+# Research at SNOW Corp.
 
-- company: Machine Learning and Deep Learning
-  # position: Communications Coordinator
-  duration:   May, 2018 &mdash; Now
-  summary: I am interested in solving existing image or video domain problems by applying modern machine learning or deep learning based methods. Recently, I have been working on a deep learning-based image translation model and aim to publish papers in academic conferences or journals.
+- company: Portrait Editing & Hair Transfer
+  duration: 2021 &mdash; Present
+  summary: Developed generative models for advanced facial attribute manipulation including Face Lifting, Wrinkle Removal, and Hair Transfer. Supervised research leading to H-Adapter (ECCV 2026, last author).
 
-- company: Virtual Reality
-  # position: Communications Coordinator
-  duration:   Jun, 2016 &mdash; Dec, 2017
-  summary: I developed an VR application that utilizes a video game engine to give people the illusion of watching a movie in a theatre. It is used to simulate the visual experience of the audience in various cinema environments.
+- company: Object Removal
+  duration: 2022 &mdash; 2023
+  summary: Implemented counterfactual bootstrapping via Diffusion models for photorealistic object removal in real-world images.
 
-- company: Calibration of Depth Camera Sensors
-  # position: Director of Digital Strategy
-  duration:  Jun, 2016 &mdash; Dec, 2017
-  summary: I was involved in a study that calibrates multiple Kinect sensors to cover a wide range and track many people. It can be used for projector-based interactive games or art by tracking the movements of many people.
+- company: Face Reenactment
+  duration: 2022 &mdash; 2023
+  summary: Developed high-fidelity face reenactment pipelines leveraging 3DMMs and latent space manipulation for precise expression transfer.
 
-- company: Camera-Projector System
-  # position: Buiding Multi-Projector Displays System
-  duration: Sep, 2013 &mdash; May, 2017
-  summary: I worked on creating an appropriately large screen using multiple projectors. Starting by implementing existing research, I conducted a study to calibrate the multi-projector with a handheld camera such as a smartphone.
-# <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Image Segmentation & Matting
+  duration: 2021 &mdash; 2022
+  summary: Trained deep learning models for high-quality interactive segmentation and matting deployed in SNOW's global camera apps.
+
+- company: 3D Facial & Body Fitting
+  duration: 2021 &mdash; 2022
+  summary: Trained neural networks for 3DMM-based face alignment and full-body pose estimation.

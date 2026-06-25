@@ -1,21 +1,21 @@
 # Publications
-#
+
+- title: 'H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks'
+  authors: Seulgi Jeong, Yunseong Cho, <strong>Sanghun Park</strong>
+  journal: ECCV 2026 (to appear)
+
 - title: 'Virtual Camera Layout Generation using a Reference Video'
-  authors: Jungeun Yoo, Kwanggyoon Seo, Sanghun Park, Jaedong Kim, Dawon Lee, Junyong Noh
-  journal: Conditionally Accepted to CHI 2021
+  authors: Jungeun Yoo, Kwanggyoon Seo, <strong>Sanghun Park</strong>, Jaedong Kim, Dawon Lee, Junyong Noh
+  journal: CHI 2021
 
 - title: 'Neural Crossbreed: Neural Based Image Metamorphosis'
-  authors: Sanghun Park, Kwanggyoon Seo, Junyong Noh
-  journal: SIGGRAPH Asia 2020 (ACM TOG)
-
-- title: Cinematography Generation using a Reference Video
-  authors: Kwanggyoon Seo, Sanghun Park, Jungeun Yoo, Jaedong Kim, Dawon Lee, Junyong Noh
-  journal: Pacific Graphics 2019 (Poster)
+  authors: <strong>Sanghun Park</strong>, Kwanggyoon Seo, Junyong Noh
+  journal: SIGGRAPH Asia 2020 (ACM Transactions on Graphics)
 
 - title: Auto-Calibration of Multi-Projector Displays with a Single Handheld Camera
-  authors: Sanghun Park, Hyunggoog Seo, Seunghoon Cha, Junyong Noh
+  authors: <strong>Sanghun Park</strong>, Hyunggoog Seo, Seunghoon Cha, Junyong Noh
   journal: IEEE VIS 2015
 
-- title: Vivid Illumination for Enhancing Tele-presence Experience in Augmented World
-  authors: Jea In Kim, Sanghun Park, Woontack Woo and Chung-kon Shi
-  journal: ISUVR 2013 (Poster)
+- title: Cinematography Generation using a Reference Video
+  authors: Kwanggyoon Seo, <strong>Sanghun Park</strong>, Jungeun Yoo, Jaedong Kim, Dawon Lee, Junyong Noh
+  journal: Pacific Graphics 2019 (Poster)
