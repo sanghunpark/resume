@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: SNOW Corp. (a subsidiary of NAVER)
+  position: Research Engineer, AI Lab - Vision
+  duration: May 2021 &mdash; Present
+  summary: >
+    <ul class="resume-item-list">
+      <li><strong>Portrait Editing:</strong> Developed generative models for advanced facial attribute manipulation (Face Lifting, Wrinkle Removal, Hair Transfer)</li>
+      <li><strong>Object Removal:</strong> Implemented counterfactual bootstrapping via Diffusion models for photorealistic object removal</li>
+      <li><strong>Image Segmentation / Matting:</strong> Trained deep learning models for high-quality interactive segmentation and matting</li>
+      <li><strong>Face Reenactment:</strong> Developed high-fidelity face reenactment pipelines leveraging 3DMMs and latent space manipulation for precise expression transfer</li>
+      <li><strong>3D Facial &amp; Body Fitting:</strong> Trained neural networks for 3DMM-based face alignment and body estimation</li>
+      <li><strong>Research Leadership:</strong> Mentored junior researchers; supervised research culminating in an ECCV 2026 paper (H-Adapter, last author)</li>
+    </ul>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: KAI Inc.
+  position: Technical Advisor (Part Time)
+  duration: Jul 2022 &mdash; Dec 2022
+  summary: Advised on a 3D avatar–based messenger project (under NDA).

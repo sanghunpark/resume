@@ -1,13 +1,16 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# Education
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Ph.D. in Culture Technology
+  uni: KAIST
+  year: Sep 2015 &mdash; Feb 2021
+  summary: "Daejeon, Korea &bull; GPA: 3.52/4.3 &bull; Advisor: Prof. Junyong Noh"
+
+- degree: M.S. in Culture Technology
+  uni: KAIST
+  year: Mar 2013 &mdash; Feb 2015
+  summary: "Daejeon, Korea &bull; GPA: 3.52/4.3 &bull; Advisor: Prof. Junyong Noh / Co-advisor: Prof. Sung-Hee Lee"
+
+- degree: B.S. in Electronics Engineering
+  uni: Kyungpook National University
+  year: Mar 2005 &mdash; Feb 2013
+  summary: "Daegu, Korea &bull; GPA: 4.05/4.5"
