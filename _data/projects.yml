@@ -1,42 +1,26 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# Publications
 
-# Camera Work Project
-- project: Development of Camera Work Tracking Technology for Animation Production using Artificial Intelligence
-  funding: KOCCA
-  role: Project Leader & Software Engineer
-  duration: May, 2018 &mdash; Dec, 2019
-  # url: "https://vml.kaist.ac.kr/main/projects/individual/38"
-  # description: The goal of this project is to learn the cinematography of live-action movies using artificial inteligence techniques and recreate the camera work so that it can be used for animation production.
+- project: "H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks"
+  role: "Seulgi Jeong, Yunseong Cho, <strong>Sanghun Park</strong>"
+  duration: ECCV 2026 (to appear)
+  description: ""
 
-# Telepresence
-- project: Development of Hyper Realistic Tele-immersion System using Scene Reconstruction and Deformation from Panoramic Video
-  funding: IITP
-  role: Software Engineer
-  duration: Jun, 2017 &mdash; Dec, 2017
-  # url: "https://vml.kaist.ac.kr/main/projects/individual/35"
-  # description: Beyond telepresence for conferencing that provides video conferencing solutions between remote users, there is a growing interest and demand for tele-immersion system that economically and efficiently support super-realistic collaboration between remote users. Developed high-quality, ultra-realistic 3D telemigration technology based on 3D object information convergence and space unification in different remote spaces and secured original technology to leap to the world's best realistic tele-immersion system.
+- project: "Neural Crossbreed: Neural Based Image Metamorphosis"
+  role: "<strong>Sanghun Park</strong>, Kwanggyoon Seo, Junyong Noh"
+  duration: SIGGRAPH Asia 2020 (ACM Transactions on Graphics)
+  description: ""
 
-# Multi-Projection Project
-- project: Development of a Multi-screen Movie Theatre System and Immersive Content
-  funding: IITP
-  role: Software Engineer
-  duration: July, 2016 &mdash; Dec, 2017
-  # url: "https://vml.kaist.ac.kr/main/projects/individual/32"
-  # description: '-'
+- project: "Virtual Camera Layout Generation using a Reference Video"
+  role: "Jungeun Yoo, Kwanggyoon Seo, <strong>Sanghun Park</strong>, Jaedong Kim, Dawon Lee, Junyong Noh"
+  duration: CHI 2021
+  description: ""
 
-# Curved Projection Project
-- project: Real-time Revision &Interaction Technology Development for Curved Screen Contents
-  funding: IITP
-  role: Software Engineer
-  duration: Nov, 2014 &mdash; Aug, 2016
-  # url: "https://vml.kaist.ac.kr/main/projects/individual/27"
-  # description: 'This project aims for building interactive multi-projector environment on curve surface.'
+- project: "Auto-Calibration of Multi-Projector Displays with a Single Handheld Camera"
+  role: "<strong>Sanghun Park</strong>, Hyunggoog Seo, Seunghoon Cha, Junyong Noh"
+  duration: VIS 2015
+  description: ""
 
-# KOLON IIS
-- project: The development of ‘Immersive & Interactive Space' platform
-  funding: KOLON
-  role: Software Engineer
-  duration: May, 2013 &mdash; Sep, 2016
-  # url: "https://vml.kaist.ac.kr/main/projects/individual/23"
-  # description: '-'
+- project: "Cinematography Generation using a Reference Video"
+  role: "Kwanggyoon Seo, <strong>Sanghun Park</strong>, Jungeun Yoo, Jaedong Kim, Dawon Lee, Junyong Noh"
+  duration: Pacific Graphics 2019 (Poster)
+  description: ""
